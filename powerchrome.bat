@@ -1,5 +1,4 @@
 @echo off
-echo Opening Chrome
-start chrome.exe
-echo Chrome Started
+echo ..............
+pause
 echo Fast downloader activated
