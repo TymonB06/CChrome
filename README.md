@@ -1,2 +1,4 @@
 # CChrome
-Internet Browser
+
+CChrome - Fast Google Chrome
+           Internet Browser
