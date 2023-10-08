@@ -1,4 +1,3 @@
 # CChrome
 
-CChrome - Fast Google Chrome
-           Internet Browser
+CChrome - Chrome With Flash
